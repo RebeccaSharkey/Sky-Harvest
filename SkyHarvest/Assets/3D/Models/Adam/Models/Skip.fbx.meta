@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 802dc92212a54d644a29eb0aaa9c1a5b
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -8404094966283010344
+    second: Box002|Box002|Take 001|BaseLayer
+  - first:
+      74: -4670159684762444331
+    second: Box002|Box004|Take 001|BaseLayer
+  - first:
+      74: 303590749367757125
+    second: Box002|Cylinder006|Take 001|BaseLayer
+  - first:
+      74: -4304740929402932297
+    second: Box002|Cylinder007|Take 001|BaseLayer
+  - first:
+      74: 2961241047880234295
+    second: Box002|Cylinder008.001|Take 001|BaseLayer
+  - first:
+      74: 1315819742144736448
+    second: Box002|Cylinder009|Take 001|BaseLayer
+  - first:
+      74: 818016981130183489
+    second: Box002|Cylinder011|Take 001|BaseLayer
+  - first:
+      74: -4296763682934383418
+    second: Box002|Tube001.001|Take 001|BaseLayer
+  - first:
+      74: 6729076358478802109
+    second: Box002|Tube001|Take 001|BaseLayer
+  - first:
+      74: 1311378845345897167
+    second: Box002|Tube002.001|Take 001|BaseLayer
+  - first:
+      74: 6596282704728507791
+    second: Box002|Tube002|Take 001|BaseLayer
+  - first:
+      74: -3685475744605620704
+    second: Tube001|Box002|Take 001|BaseLayer
+  - first:
+      74: 7915427999343060320
+    second: Tube001|Box004|Take 001|BaseLayer
+  - first:
+      74: -446439069363223255
+    second: Tube001|Cylinder006|Take 001|BaseLayer
+  - first:
+      74: -3926973347148964509
+    second: Tube001|Cylinder007|Take 001|BaseLayer
+  - first:
+      74: 8040136855577946491
+    second: Tube001|Cylinder008.001|Take 001|BaseLayer
+  - first:
+      74: 8289076712554680742
+    second: Tube001|Cylinder009|Take 001|BaseLayer
+  - first:
+      74: 4251493513716562071
+    second: Tube001|Cylinder011|Take 001|BaseLayer
+  - first:
+      74: 1786349975442461871
+    second: Tube001|Tube001.001|Take 001|BaseLayer
+  - first:
+      74: 5969520693970875766
+    second: Tube001|Tube001|Take 001|BaseLayer
+  - first:
+      74: -1467950918820646104
+    second: Tube001|Tube002.001|Take 001|BaseLayer
+  - first:
+      74: 9016157004852923400
+    second: Tube001|Tube002|Take 001|BaseLayer
+  - first:
+      74: 430360950839578450
+    second: Tube002|Box002|Take 001|BaseLayer
+  - first:
+      74: 2495712883672643381
+    second: Tube002|Box004|Take 001|BaseLayer
+  - first:
+      74: -1565051944458486125
+    second: Tube002|Cylinder006|Take 001|BaseLayer
+  - first:
+      74: -819635843626860257
+    second: Tube002|Cylinder007|Take 001|BaseLayer
+  - first:
+      74: -1744848968278182191
+    second: Tube002|Cylinder008.001|Take 001|BaseLayer
+  - first:
+      74: 3596020906158253462
+    second: Tube002|Cylinder009|Take 001|BaseLayer
+  - first:
+      74: -1508682544556575510
+    second: Tube002|Cylinder011|Take 001|BaseLayer
+  - first:
+      74: 2090888127928661169
+    second: Tube002|Tube001.001|Take 001|BaseLayer
+  - first:
+      74: -1259968541057533828
+    second: Tube002|Tube001|Take 001|BaseLayer
+  - first:
+      74: 3020545909000088693
+    second: Tube002|Tube002.001|Take 001|BaseLayer
+  - first:
+      74: -5503059333603472901
+    second: Tube002|Tube002|Take 001|BaseLayer
+  - first:
+      74: 1590798707113533293
+    second: Tube001.001|Box002|Take 001|BaseLayer
+  - first:
+      74: 5070264918772025977
+    second: Tube001.001|Box004|Take 001|BaseLayer
+  - first:
+      74: 6361279319985116289
+    second: Tube001.001|Cylinder006|Take 001|BaseLayer
+  - first:
+      74: 1629462390820457699
+    second: Tube001.001|Cylinder007|Take 001|BaseLayer
+  - first:
+      74: -6873242460513288559
+    second: Tube001.001|Cylinder008.001|Take 001|BaseLayer
+  - first:
+      74: -8205011489942310881
+    second: Tube001.001|Cylinder009|Take 001|BaseLayer
+  - first:
+      74: 2114892623307935471
+    second: Tube001.001|Cylinder011|Take 001|BaseLayer
+  - first:
+      74: 7836360632788068642
+    second: Tube001.001|Tube001.001|Take 001|BaseLayer
+  - first:
+      74: -2533392016953211291
+    second: Tube001.001|Tube001|Take 001|BaseLayer
+  - first:
+      74: -8445982271373432899
+    second: Tube001.001|Tube002.001|Take 001|BaseLayer
+  - first:
+      74: 4889177650961500830
+    second: Tube001.001|Tube002|Take 001|BaseLayer
+  - first:
+      74: 6552808040077072587
+    second: Tube002.001|Box002|Take 001|BaseLayer
+  - first:
+      74: 2695352512616305442
+    second: Tube002.001|Box004|Take 001|BaseLayer
+  - first:
+      74: 5739306867759988037
+    second: Tube002.001|Cylinder006|Take 001|BaseLayer
+  - first:
+      74: 8891255216261971885
+    second: Tube002.001|Cylinder007|Take 001|BaseLayer
+  - first:
+      74: 9187946882399133162
+    second: Tube002.001|Cylinder008.001|Take 001|BaseLayer
+  - first:
+      74: 3233372871644966424
+    second: Tube002.001|Cylinder009|Take 001|BaseLayer
+  - first:
+      74: 6149333245624842227
+    second: Tube002.001|Cylinder011|Take 001|BaseLayer
+  - first:
+      74: 1112860691820225601
+    second: Tube002.001|Tube001.001|Take 001|BaseLayer
+  - first:
+      74: 7941138953821567633
+    second: Tube002.001|Tube001|Take 001|BaseLayer
+  - first:
+      74: -278816173655353002
+    second: Tube002.001|Tube002.001|Take 001|BaseLayer
+  - first:
+      74: -2649975980463123631
+    second: Tube002.001|Tube002|Take 001|BaseLayer
+  - first:
+      74: -6157530220290346580
+    second: Cylinder007|Box002|Take 001|BaseLayer
+  - first:
+      74: -7619819743374226112
+    second: Cylinder007|Box004|Take 001|BaseLayer
+  - first:
+      74: -4018485937266210000
+    second: Cylinder007|Cylinder006|Take 001|BaseLayer
+  - first:
+      74: 6823450465185085580
+    second: Cylinder007|Cylinder007|Take 001|BaseLayer
+  - first:
+      74: -9186318680580716526
+    second: Cylinder007|Cylinder008.001|Take 001|BaseLayer
+  - first:
+      74: -3568227840767187623
+    second: Cylinder007|Cylinder009|Take 001|BaseLayer
+  - first:
+      74: 6387226606670200615
+    second: Cylinder007|Cylinder011|Take 001|BaseLayer
+  - first:
+      74: 1242304433333018470
+    second: Cylinder007|Tube001.001|Take 001|BaseLayer
+  - first:
+      74: -8699175575973945113
+    second: Cylinder007|Tube001|Take 001|BaseLayer
+  - first:
+      74: -2551081832961931800
+    second: Cylinder007|Tube002.001|Take 001|BaseLayer
+  - first:
+      74: -252713904464461886
+    second: Cylinder007|Tube002|Take 001|BaseLayer
+  - first:
+      74: 4753307805388815043
+    second: Cylinder008.001|Box002|Take 001|BaseLayer
+  - first:
+      74: -8591412223497714021
+    second: Cylinder008.001|Box004|Take 001|BaseLayer
+  - first:
+      74: -8185626619376117717
+    second: Cylinder008.001|Cylinder006|Take 001|BaseLayer
+  - first:
+      74: -5560246299200272789
+    second: Cylinder008.001|Cylinder007|Take 001|BaseLayer
+  - first:
+      74: -8566681758276542614
+    second: Cylinder008.001|Cylinder008.001|Take 001|BaseLayer
+  - first:
+      74: 8989078536259801101
+    second: Cylinder008.001|Cylinder009|Take 001|BaseLayer
+  - first:
+      74: 2521892818598465166
+    second: Cylinder008.001|Cylinder011|Take 001|BaseLayer
+  - first:
+      74: 4697824193806566022
+    second: Cylinder008.001|Tube001.001|Take 001|BaseLayer
+  - first:
+      74: 8623438416847746263
+    second: Cylinder008.001|Tube001|Take 001|BaseLayer
+  - first:
+      74: -5324898178861424015
+    second: Cylinder008.001|Tube002.001|Take 001|BaseLayer
+  - first:
+      74: -7890916527353975005
+    second: Cylinder008.001|Tube002|Take 001|BaseLayer
+  - first:
+      74: -2589544721934879176
+    second: Box004|Box002|Take 001|BaseLayer
+  - first:
+      74: 3547505997514530557
+    second: Box004|Box004|Take 001|BaseLayer
+  - first:
+      74: 1898599387562256118
+    second: Box004|Cylinder006|Take 001|BaseLayer
+  - first:
+      74: 3490578191242341756
+    second: Box004|Cylinder007|Take 001|BaseLayer
+  - first:
+      74: 396318372281229661
+    second: Box004|Cylinder008.001|Take 001|BaseLayer
+  - first:
+      74: 4824584716646147365
+    second: Box004|Cylinder009|Take 001|BaseLayer
+  - first:
+      74: 1951797100723197345
+    second: Box004|Cylinder011|Take 001|BaseLayer
+  - first:
+      74: -6612590405553003151
+    second: Box004|Tube001.001|Take 001|BaseLayer
+  - first:
+      74: 5424688282053138051
+    second: Box004|Tube001|Take 001|BaseLayer
+  - first:
+      74: 8868836328225370483
+    second: Box004|Tube002.001|Take 001|BaseLayer
+  - first:
+      74: 8777564793522749208
+    second: Box004|Tube002|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

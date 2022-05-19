@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66bf6a3f644fa34ba1f9b576d820f4e, type: 3}
+  m_Name: Dead Crop
+  m_EditorClassIdentifier: 
+  _itemName: Dead Crop
+  _itemType: 0
+  _itemModel: {fileID: 322715476496281843, guid: 4cb083b882a071f4f960ea7a105a3277, type: 3}
+  _sprite: {fileID: 21300000, guid: ace9d7549db211f4c90bb40a4bbe0830, type: 3}
+  _stackable: 1
+  _stackAmount: 999
+  _sellvalueBad: 1
+  _sellvalueNormal: 1
+  _sellvalueGood: 1
+  _sellvaluePerfect: 1
+  _buyValueBad: 4
+  _buyValueNormal: 4
+  _buyValueGood: 4
+  _buyValuePerfect: 4
+  _ignoreQuality: 0
+  lore: Rubbish, but may be useful in some crafting scenarios..

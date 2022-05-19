@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d31924cc3bb5449900b79482a269a3, type: 3}
+  m_Name: BuyUpgrade
+  m_EditorClassIdentifier: 
+  achievementName: Levelling Up
+  achievementDescription: Buy your first upgrade
+  numGoal: 1
+  currencyReward: 300
+  achievementLogo: {fileID: 21300000, guid: 4fd989b92e2f4274f8e0ea3107c3f36d, type: 3}
+  lockedLogo: {fileID: 21300000, guid: 8031e8f60d0259c46b0172938885dd49, type: 3}
+  bIsComplete: 0

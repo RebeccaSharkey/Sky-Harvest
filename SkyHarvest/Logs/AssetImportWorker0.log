@@ -1,0 +1,240 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.6f1 (c0fade0cc7e9) revision 12647134'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 22000.556; Version 2009; 64bit' Language: 'en' Physical Memory: 32712 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Perforce Workspaces/Collab - Year 3/CO6136-21-22/SkyHarvest
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55519
+Successfully changed project path to: D:/Perforce Workspaces/Collab - Year 3/CO6136-21-22/SkyHarvest
+D:/Perforce Workspaces/Collab - Year 3/CO6136-21-22/SkyHarvest
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 140.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Perforce Workspaces/Collab - Year 3/CO6136-21-22/SkyHarvest/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8012 MB
+    Driver:   30.0.15.1179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001164 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 134.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002836 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Perforce Workspaces\Collab - Year 3\CO6136-21-22\SkyHarvest\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Perforce Workspaces\Collab - Year 3\CO6136-21-22\SkyHarvest\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 144.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.175 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.6 MB.
+System memory in use after: 209.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 5782.
+Total: 2.966800 ms (FindLiveObjects: 0.376100 ms CreateObjectMapping: 0.134900 ms MarkObjects: 2.366900 ms  DeleteObjects: 0.087600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/3D/Models/Jake/Environmental/Fruit_Barrel.fbx
+  artifactKey: Guid(edd6f8ef8664b6b4aa0f260a3f04a9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Jake/Environmental/Fruit_Barrel.fbx using Guid(edd6f8ef8664b6b4aa0f260a3f04a9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2901eb5ebf8d262a8d8d71eef11aac9d') in 0.146992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.290634 seconds.
+  path: Assets/3D/Models/Leons/Exterior/Pond
+  artifactKey: Guid(cf92e2828d83aef4c8e5d1a869863a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Leons/Exterior/Pond using Guid(cf92e2828d83aef4c8e5d1a869863a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f866c2b3c5ed5e91f69c6edba2d31a1') in 0.004834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61.816819 seconds.
+  path: Assets/3D/Models/Mahdi/FarmerRGlove.fbx
+  artifactKey: Guid(c7ee835cd8211244485de711d34b642d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Mahdi/FarmerRGlove.fbx using Guid(c7ee835cd8211244485de711d34b642d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a32d0b25472cdec10b7bd213ab588c3') in 0.039206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/3D/Models/Mahdi/LillyPond.fbx
+  artifactKey: Guid(2416ea0235461a64a9a47f1cba4a4d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Mahdi/LillyPond.fbx using Guid(2416ea0235461a64a9a47f1cba4a4d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f5a44c98676f1d3b3f5c7d4d6a37cd') in 0.026681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/3D/Models/Jake/Flowers/LilyPad_W_Flower.fbx
+  artifactKey: Guid(ef9dd84c70db41b4bbcbf5c3a5a7e54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Jake/Flowers/LilyPad_W_Flower.fbx using Guid(ef9dd84c70db41b4bbcbf5c3a5a7e54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa1d97eea6d0a3ba8be2123cb06a027') in 0.014672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/3D/Models/Mahdi/pigR.fbx
+  artifactKey: Guid(c4f51ccddfc53894b9b7e0a5765b1990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Mahdi/pigR.fbx using Guid(c4f51ccddfc53894b9b7e0a5765b1990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401db59ce4909b51bf5070986020f7d1') in 0.033127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/3D/Models/Jake/Environmental/LightPost.fbx
+  artifactKey: Guid(bbd2812c8cb03ca4d935f075b28d41c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Jake/Environmental/LightPost.fbx using Guid(bbd2812c8cb03ca4d935f075b28d41c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033ccb87212479c99ae87597d1d4c3ad') in 0.014238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.046743 seconds.
+  path: Assets/3D/Models/Mahdi/OldBoots.fbx
+  artifactKey: Guid(934916e421979b749a423946c3c7eaa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Mahdi/OldBoots.fbx using Guid(934916e421979b749a423946c3c7eaa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1c3252cf55a9d9f37bcbccc6aca566') in 0.021062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.640212 seconds.
+  path: Assets/3D/Models/Mahdi/FarmerLGlove.fbx
+  artifactKey: Guid(9d254283065d18d45bfdcac7522c7f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Mahdi/FarmerLGlove.fbx using Guid(9d254283065d18d45bfdcac7522c7f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d0c5f7692c2bfe8982b9e3c89e92bd') in 0.022632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/3D/Models/Leons/Exterior/bee Hive/Jar/Jar.fbx
+  artifactKey: Guid(4d1072a73ee643246839048cad37ca18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Leons/Exterior/bee Hive/Jar/Jar.fbx using Guid(4d1072a73ee643246839048cad37ca18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba654ec728c2bd64e89c22c4aa6db601') in 0.013782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.621522 seconds.
+  path: Assets/3D/Models/Jake/Environmental/Wheat_Sack.fbx
+  artifactKey: Guid(e12a2f67dc5c3144b98a3be54e17f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Jake/Environmental/Wheat_Sack.fbx using Guid(e12a2f67dc5c3144b98a3be54e17f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25d189477e1751190d7f809578683a4d') in 0.013867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/3D/Models/Jake/Crops/Winter_Wheat/Winter_Wheat_Seed.fbx
+  artifactKey: Guid(07a939a16f4cc6e4c92b9b6f059fc3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Jake/Crops/Winter_Wheat/Winter_Wheat_Seed.fbx using Guid(07a939a16f4cc6e4c92b9b6f059fc3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ac61a5ecee7900f8524ca4f2ca8cda') in 0.013477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.088985 seconds.
+  path: Assets/3D/Models/Adam/Models/Rubbish Bin.fbx
+  artifactKey: Guid(edc239a4619777545948edd6329b6fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Adam/Models/Rubbish Bin.fbx using Guid(edc239a4619777545948edd6329b6fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4141eddac822e96fba936f949477521') in 0.029494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/3D/Models/Leons/Exterior/Camping/Radio/radio.fbx
+  artifactKey: Guid(51f05e6a7a515194daf261004bfc57f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Leons/Exterior/Camping/Radio/radio.fbx using Guid(51f05e6a7a515194daf261004bfc57f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5898fb930f51b2956694bb87afca1dcf') in 0.011123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/3D/Models/Leons/Exterior/Camping/Flashlight/flashlight.fbx
+  artifactKey: Guid(b0ee526ce91d7b146bee56162c84cf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Leons/Exterior/Camping/Flashlight/flashlight.fbx using Guid(b0ee526ce91d7b146bee56162c84cf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874dde97f000417f7d0e9d3d3dbe1a99') in 0.014221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.833130 seconds.
+  path: Assets/3D/Models/Jake/Environmental/LawnArt.fbx
+  artifactKey: Guid(7e3d70568f4270049b9933f833bc1e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Jake/Environmental/LawnArt.fbx using Guid(7e3d70568f4270049b9933f833bc1e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8394a6b44ede339640b9a9fbad7fdb3f') in 0.012978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030767 seconds.
+  path: Assets/3D/Models/Jake/Environmental/Icicle_V5.fbx
+  artifactKey: Guid(4b9883b6844b7c34ba4bf48e42764fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Models/Jake/Environmental/Icicle_V5.fbx using Guid(4b9883b6844b7c34ba4bf48e42764fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aabd9efda752073d5cc2b8c80920667') in 0.012354 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003222 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Perforce Workspaces\Collab - Year 3\CO6136-21-22\SkyHarvest\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Perforce Workspaces\Collab - Year 3\CO6136-21-22\SkyHarvest\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5217 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 215.9 MB.
+System memory in use after: 216.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5828.
+Total: 2.956500 ms (FindLiveObjects: 0.414700 ms CreateObjectMapping: 0.136800 ms MarkObjects: 2.383300 ms  DeleteObjects: 0.021100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 447.641804 seconds.
+  path: Assets/Scenes/Farm.unity
+  artifactKey: Guid(93b8d2201beb99146b14a8448861784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Farm.unity using Guid(93b8d2201beb99146b14a8448861784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2628646828b570462faac983021ee9d') in 0.023020 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004516 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Perforce Workspaces\Collab - Year 3\CO6136-21-22\SkyHarvest\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Perforce Workspaces\Collab - Year 3\CO6136-21-22\SkyHarvest\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.331 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5217 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.0 MB.
+System memory in use after: 216.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5830.
+Total: 6.437900 ms (FindLiveObjects: 0.750100 ms CreateObjectMapping: 0.658900 ms MarkObjects: 5.001600 ms  DeleteObjects: 0.025700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.086422 seconds.
+  path: Assets/Prefabs/Igloo.prefab
+  artifactKey: Guid(ebe7b3c905297b04a93b5822bd890cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Igloo.prefab using Guid(ebe7b3c905297b04a93b5822bd890cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330b0590c3a34c184058163b1d7d1f66') in 0.053669 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.1 MB.
+System memory in use after: 113.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 5831.
+Total: 3.025300 ms (FindLiveObjects: 0.414000 ms CreateObjectMapping: 0.119200 ms MarkObjects: 2.481500 ms  DeleteObjects: 0.010100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

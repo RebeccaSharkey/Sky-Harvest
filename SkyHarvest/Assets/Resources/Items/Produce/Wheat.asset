@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66bf6a3f644fa34ba1f9b576d820f4e, type: 3}
+  m_Name: Wheat
+  m_EditorClassIdentifier: 
+  _itemName: Wheat
+  _itemType: 0
+  _itemModel: {fileID: 6847610639380064119, guid: 576f075cf2c3ea84590d4ecfd9da33f6, type: 3}
+  _sprite: {fileID: 21300000, guid: 27a6204e9139d2946be2743b58fde7e4, type: 3}
+  _stackable: 1
+  _stackAmount: 999
+  _sellvalueBad: 1
+  _sellvalueNormal: 3
+  _sellvalueGood: 4
+  _sellvaluePerfect: 6
+  _buyValueBad: 0
+  _buyValueNormal: 6
+  _buyValueGood: 0
+  _buyValuePerfect: 9
+  _ignoreQuality: 0
+  lore: Wheat is the most basic of crops, its yellow colour is pleasing to some people

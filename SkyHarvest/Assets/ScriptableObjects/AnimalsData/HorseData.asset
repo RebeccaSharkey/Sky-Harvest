@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eff51754cebb9c4aa79769bceb3c0d6, type: 3}
+  m_Name: HorseData
+  m_EditorClassIdentifier: 
+  animalName: Bella
+  minProduceReturned: 0
+  maxProduceReturned: 0
+  buyValue: 50
+  happinessValue: 100
+  animalType: 4
+  itemToFeed: {fileID: 11400000, guid: f1d65ff14fa2c1b45afa19c616119397, type: 2}
+  produce: []

@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5901820137274514769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5901820137274514733}
+  - component: {fileID: 5901820137274514732}
+  - component: {fileID: 5901820137274514771}
+  - component: {fileID: 5901820137274514770}
+  m_Layer: 0
+  m_Name: Chicken Prefab
+  m_TagString: Animal
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5901820137274514733
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5901820137274514769}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.4261756, y: 1.097, z: 1.509398}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6227848643513260875}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!195 &5901820137274514732
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5901820137274514769}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.37
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 1.27
+  m_BaseOffset: 0.63
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &5901820137274514771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5901820137274514769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78f08993d59dbb148a52d6e7c9fab010, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 5901820136350672032}
+  radius: 3.5
+  stopDistance: 0.5
+  timeToRotate: 0.3
+  waitTime: 1.5
+  bIsMoving: bIsMoving
+  bCanUseAnimations: 1
+--- !u!65 &5901820137274514770
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5901820137274514769}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.5251055, y: 1.1669376, z: 0.920504}
+  m_Center: {x: -0.016279697, y: -0.083468944, z: 0.039748013}
+--- !u!95 &5901820136350672032
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6712074236106752497}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3c1df8d1be330a745a9284286ce6d0bb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &5901820136350672039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6712074236106752497}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9c9e7e8519798845b66286c04a5c724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animalData: {fileID: 11400000, guid: 1bfb468e999524e48b20b95409cf88c0, type: 2}
+  animalDataSign: {fileID: 8199509735270253999, guid: 29e25dec1cdf33a45858a3b0e5acb2d7, type: 3}
+  horseSpeedSign: {fileID: 7115450329122244494, guid: 76a9b00c8c0cf844aaa28508789202a2, type: 3}
+  offset: {x: 0, y: 4, z: 0}
+  bIsFed: 0
+  bIsHarvestable: 0
+  bCanBePet: 1
+  petHappinessAmount: 10
+  billboardID: 0
+  particleOffset: {x: 0, y: 0, z: 0}
+--- !u!1001 &5901820137119218848
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5901820137274514733}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.025762081
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.027641654
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710784
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1436423551639223507, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b20b56846153a424d87ad6a80fa1cd08, type: 2}
+    - target: {fileID: 919132149155446097, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+      propertyPath: m_Name
+      value: Chicken_RIGGED
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+--- !u!1 &6712074236106752497 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+  m_PrefabInstance: {fileID: 5901820137119218848}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6227848643513260875 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 888889d0b945f634a966d05bf60c16a1, type: 3}
+  m_PrefabInstance: {fileID: 5901820137119218848}
+  m_PrefabAsset: {fileID: 0}

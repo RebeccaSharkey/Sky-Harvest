@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 22424703114646680e0b0227036c6f0219100a2b21252322192c0e27d1e33136e7f479caef28362f2d0bee32303b122bc1090c05f3451f05181ae4
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 22424703114646680e0b0227036c761e02051709393c68252320092a
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 22424703114646680e0b0227036c6f0219100a2b21252322192c0e27d1e33136e7f479cbe2393c3d0d07fc28373d0431f726081be2041a450400f41a08
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 22424703114646680e0b0227036c6f0219100a2b21252322192c0e27d1e33136e7f479c5ee3636283136ea2f100d023afc0f471ef8021e12
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 22424703114646680e0b0227036c78111b122b292926237e38271427fb
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646680e0b0227036c7e0202583e233f20660524692936f1f47a2decee22f0
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646680e0b0227036c7e0202582d036c1c23233967083debf42d
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 22424703114646680e0b0227036c7a1e12340d3e3f2b233e2867083debf42d
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646680e0b0227036c72111f1958072926337e38271427fb
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646680e0b0227036c7911041a563f22213229
+      flags: 0
+    vcPerforcePassword:
+      value: 33710153125a1b5f
+      flags: 1
+    vcPerforceServer:
+      value: 135446000a470a5e43081f275e2d5a0401180a21767970667b
+      flags: 0
+    vcPerforceUsername:
+      value: 1154560306560848050f1e29153a
+      flags: 0
+    vcPerforceWorkspace:
+      value: 1154560306560848050f1e29153a603d0f331d39273c2920
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c6e2fbc54d19d40acc0c4610f7db5d, type: 3}
+  m_Name: PotatoCropData
+  m_EditorClassIdentifier: 
+  cropName: Potato
+  baseDaysToMiddleStage: 2
+  fertilisedDaysToMiddleStage: 1
+  baseDaysToGrow: 4
+  fertilisedDaysToGrow: 2
+  daysNotWateredToWither: 1
+  baseMinHarvest: 0
+  baseMaxHarvest: 1
+  fertilisedMinHarvest: 1
+  fertilisedMaxHarvest: 2
+  baseSeedReturnChance: 0.5
+  fertilisedSeedReturnChance: 0.8
+  baseMinSeedsReturned: 1
+  baseMaxSeedsReturned: 2
+  baseMinWitheredFertiliserYield: 0
+  baseMaxWitheredFertiliserYield: 1
+  harvestables:
+  - {fileID: 11400000, guid: 4ccad92c5127fc345855f6da92fa6c23, type: 2}
+  - {fileID: 11400000, guid: d0a4cbea779bef24788589349713c1e2, type: 2}
+  rngHarvestables:
+  - {fileID: 11400000, guid: bd279e0e05b310f448d32719146b8ae4, type: 2}

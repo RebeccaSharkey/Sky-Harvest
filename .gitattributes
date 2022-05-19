@@ -1,0 +1,6 @@
+Log[[:space:]]Pile[[:space:]]SNOW.fbx filter=lfs diff=lfs merge=lfs -text
+ArtifactDB filter=lfs diff=lfs merge=lfs -text
+5a22d8dc8b79c1be2de98f2a684647b9 filter=lfs diff=lfs merge=lfs -text
+payload.tar.7z filter=lfs diff=lfs merge=lfs -text
+resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+sharedassets2.assets.resS filter=lfs diff=lfs merge=lfs -text

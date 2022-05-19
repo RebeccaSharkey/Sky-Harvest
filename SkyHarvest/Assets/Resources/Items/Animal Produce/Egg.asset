@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9afcdfdcf3176040986be41456bb8e7, type: 3}
+  m_Name: Egg
+  m_EditorClassIdentifier: 
+  _itemName: Egg
+  _itemType: 8
+  _itemModel: {fileID: 2403208207279138134, guid: 4f5c24d28c2b71441b3c58d63b16355c, type: 3}
+  _sprite: {fileID: 21300000, guid: 1c492acd9b9dab2479f4475a35b09e86, type: 3}
+  _stackable: 1
+  _stackAmount: 999
+  _sellvalueBad: 12
+  _sellvalueNormal: 25
+  _sellvalueGood: 37
+  _sellvaluePerfect: 50
+  _buyValueBad: 20
+  _buyValueNormal: 40
+  _buyValueGood: 60
+  _buyValuePerfect: 80
+  _ignoreQuality: 0

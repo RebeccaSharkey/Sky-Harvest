@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66bf6a3f644fa34ba1f9b576d820f4e, type: 3}
+  m_Name: Rainbow Carrot
+  m_EditorClassIdentifier: 
+  _itemName: Rainbow Carrot
+  _itemType: 0
+  _itemModel: {fileID: 3438135316875083712, guid: 13c367e197aab864190679e72c548d70, type: 3}
+  _sprite: {fileID: 21300000, guid: b9c5a1a674fd5ef4bbc2eb0470c9fd1b, type: 3}
+  _stackable: 1
+  _stackAmount: 999
+  _sellvalueBad: 25
+  _sellvalueNormal: 50
+  _sellvalueGood: 75
+  _sellvaluePerfect: 100
+  _buyValueBad: 0
+  _buyValueNormal: 80
+  _buyValueGood: 0
+  _buyValuePerfect: 120
+  _ignoreQuality: 0
+  lore: This multicoloured crop is in large demand due to its unique appearance and
+    rarity.

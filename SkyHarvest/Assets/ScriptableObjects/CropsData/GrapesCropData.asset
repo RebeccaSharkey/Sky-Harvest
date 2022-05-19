@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c6e2fbc54d19d40acc0c4610f7db5d, type: 3}
+  m_Name: GrapesCropData
+  m_EditorClassIdentifier: 
+  cropName: Grape
+  baseDaysToMiddleStage: 2
+  fertilisedDaysToMiddleStage: 1
+  baseDaysToGrow: 4
+  fertilisedDaysToGrow: 2
+  daysNotWateredToWither: 1
+  baseMinHarvest: 0
+  baseMaxHarvest: 1
+  fertilisedMinHarvest: 1
+  fertilisedMaxHarvest: 2
+  baseSeedReturnChance: 0.5
+  fertilisedSeedReturnChance: 0.8
+  baseMinSeedsReturned: 1
+  baseMaxSeedsReturned: 2
+  baseBadQualityChance: 0.2
+  baseNormalQualityChance: 0.5
+  fertilisedNormalQualityChance: 0.2
+  fertilisedGoodQualityChance: 0.5
+  harvestables:
+  - {fileID: 11400000, guid: 2c99d07abbc946344beb2181b47f2d13, type: 2}
+  - {fileID: 11400000, guid: ad874529d00d7e243ad97d5bf3aa6d7d, type: 2}
+  rngHarvestables:
+  - {fileID: 11400000, guid: bd279e0e05b310f448d32719146b8ae4, type: 2}

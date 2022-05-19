@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66bf6a3f644fa34ba1f9b576d820f4e, type: 3}
+  m_Name: Cool Corn
+  m_EditorClassIdentifier: 
+  _itemName: Cool Corn
+  _itemType: 0
+  _itemModel: {fileID: 7276174057712388841, guid: ad7695a6a2e494943b87bacc00dde0b3, type: 3}
+  _sprite: {fileID: 21300000, guid: 62d9c209e20beb744b166aed77ad75d3, type: 3}
+  _stackable: 1
+  _stackAmount: 999
+  _sellvalueBad: 9
+  _sellvalueNormal: 18
+  _sellvalueGood: 27
+  _sellvaluePerfect: 36
+  _buyValueBad: 0
+  _buyValueNormal: 21
+  _buyValueGood: 0
+  _buyValuePerfect: 31
+  _ignoreQuality: 0
+  lore: The cool corn, the most dapper crop in the vegetable family, coupled with
+    shades and a fedora is just *chef kiss*

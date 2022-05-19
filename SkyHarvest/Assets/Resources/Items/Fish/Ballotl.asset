@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d16ea2424afb10d4aa49e430cf688c54, type: 3}
+  m_Name: Ballotl
+  m_EditorClassIdentifier: 
+  _itemName: Ballotl
+  _itemType: 6
+  _itemModel: {fileID: 0}
+  _sprite: {fileID: 21300000, guid: 55ba4e653d83ba24ead624f4fad62207, type: 3}
+  _stackable: 1
+  _stackAmount: 5
+  _sellvalueBad: 5
+  _sellvalueNormal: 12
+  _sellvalueGood: 24
+  _sellvaluePerfect: 36
+  _buyValueBad: 12
+  _buyValueNormal: 24
+  _buyValueGood: 36
+  _buyValuePerfect: 42
+  _ignoreQuality: 0
+  lore: Perhaps one of the rarest and most confusing fish to be found, the Ballotl,
+    once a childs lost football was somehow found moving by itself in the waters
+    of a sky island.

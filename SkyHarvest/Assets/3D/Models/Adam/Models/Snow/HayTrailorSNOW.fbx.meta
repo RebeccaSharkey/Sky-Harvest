@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 3b7c95a0090a6414d93a7f3abf5e70b7
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 675545640434512297
+    second: Box003|Box003|Box003|Box003.001|Box003|Box003|Take 001|BaseLayer|Box0_
+  - first:
+      74: 6781260429492288236
+    second: Box003|Box003|Box003|Box003.001|Box003|Box176|Box176|Box176|Take 001|_
+  - first:
+      74: 794920562411909007
+    second: Box003|Box003|Box003|Box003.001|Box003|Box176|Box176|Box181|Take 001|_
+  - first:
+      74: 8626940612021372121
+    second: Box003|Box003|Box003|Box003.001|Box003|Box176|Box176|Box184|Take 001|_
+  - first:
+      74: -4166986284207870420
+    second: Box003|Box003|Box003|Box003.001|Box003|Box176|Box176|Line022|Take 001_
+  - first:
+      74: -5014067007728363952
+    second: Box003|Box003|Box003|Box003.001|Box003|Line022|Line022|Box176|Take 00_
+  - first:
+      74: -830707818320270926
+    second: Box003|Box003|Box003|Box003.001|Box003|Line022|Line022|Box181|Take 00_
+  - first:
+      74: -3069455532749753478
+    second: Box003|Box003|Box003|Box003.001|Box003|Line022|Line022|Box184|Take 00_
+  - first:
+      74: -3643588812225712322
+    second: Box003|Box003|Box003|Box003.001|Box003|Line022|Line022|Line022|Take 0_
+  - first:
+      74: 574283747765289429
+    second: Box003|Box003|Box003|Box003|Box003|Box003|Take 001|BaseLayer|Box003|B_
+  - first:
+      74: 800662836826472135
+    second: Box003|Box003|Box003|Box003|Box003|Box176|Box176|Box176|Take 001|Base_
+  - first:
+      74: 3578603111164971265
+    second: Box003|Box003|Box003|Box003|Box003|Box176|Box176|Box181|Take 001|Base_
+  - first:
+      74: -743813833235828809
+    second: Box003|Box003|Box003|Box003|Box003|Box176|Box176|Box184|Take 001|Base_
+  - first:
+      74: 549834593746428624
+    second: Box003|Box003|Box003|Box003|Box003|Box176|Box176|Line022|Take 001|Bas_
+  - first:
+      74: -2129590540156251153
+    second: Box003|Box003|Box003|Box003|Box003|Line022|Line022|Box176|Take 001|Ba_
+  - first:
+      74: 3282411571103813448
+    second: Box003|Box003|Box003|Box003|Box003|Line022|Line022|Box181|Take 001|Ba_
+  - first:
+      74: -606250228067318409
+    second: Box003|Box003|Box003|Box003|Box003|Line022|Line022|Box184|Take 001|Ba_
+  - first:
+      74: 5584722675498989375
+    second: Box003|Box003|Box003|Box003|Box003|Line022|Line022|Line022|Take 001|B_
+  - first:
+      74: 6892118136077718927
+    second: Box003|Box003|Box003|Cylinder.001|Take 001|BaseLayer|Box003|Cylinder.0
+  - first:
+      74: 9194136161567042855
+    second: 'Box003|Box003|Box003|Cylinder|Take 001|BaseLayer|Box003|Cylinder|Take '
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
